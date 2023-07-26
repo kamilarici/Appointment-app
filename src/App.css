@@ -1,0 +1,23 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.relative {
+  position: relative;
+  background-color: rgb(211, 209, 209);
+}
+.absolite {
+  text-align: center;
+  align-items: center;
+  color: white;
+  font-size: 25px;
+  position: absolute;
+  padding: 10px;
+  top: 18%;
+  left: 35%;
+  border-radius: 25px;
+  width: 200px;
+}
+.none {
+  display: none;
+}
