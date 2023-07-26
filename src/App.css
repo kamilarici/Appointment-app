@@ -21,6 +21,8 @@ body {
   left: 35%;
   border-radius: 25px;
   width: 200px;
+  border: 1px solid grey;
+  &: hover;
 }
 .none {
   display: none;

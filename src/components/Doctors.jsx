@@ -10,7 +10,7 @@ const Doctors = ({ handleShow }) => {
           return (
             <div
               key={id}
-              className="card text-center justify"
+              className="card text-center justify border"
               style={{ width: "15.2rem" }}
             >
               <img
